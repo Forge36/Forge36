@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+Most of my work is propriatary. You can see an overview on my [Resume](https://github.com/Forge36/Resume).
+
+😄 Pronouns: He/Him/His
+
+
 
 <!--
 **Forge36/Forge36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
