@@ -1,7 +1,7 @@
 ### Welcome 👋
 Most of my work is proprietary. You can see an overview on my [Resume](https://github.com/Forge36/Resume).
 
-😄 Pronouns: He/Him/His
+Pronouns: He/Him/His
 
 
 
