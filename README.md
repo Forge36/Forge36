@@ -1,5 +1,5 @@
 ### Welcome 👋
-Most of my work is proprietary. You can see an overview on my [Resume](https://github.com/Forge36/Resume).
+Most of my work is proprietary. You can see an overview on my [Resume](https://forge36.github.io/Website/).
 
 Pronouns: He/Him/His
 
